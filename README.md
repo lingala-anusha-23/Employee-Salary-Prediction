@@ -110,10 +110,11 @@ The model was trained on the Adult Census Income dataset with these features:
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png) *(optional)*
+![App Screenshot](https://github.com/user-attachments/assets/aa5ae6a0-0080-4e4b-b036-5029ded4d158)
+
+![App Live Demo](https://github.com/user-attachments/assets/65f0b450-f963-4cc5-a0a2-8a574a71b40f)
 
 ## 📜 License
 This project is **open-source** under the **MIT License**. 
 
 ```
-
