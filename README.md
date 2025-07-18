@@ -61,9 +61,6 @@ The dataset includes the following columns:
 3. **Run the Jupyter notebook** to preprocess data and perform EDA.  
 4. **Train and evaluate models** for salary prediction.  
 
-## 📜 License
-This project is **open-source** under the **MIT License**. 🎉  
-
 ---
 
 ✨ Predict whether an employee earns >$50K or ≤$50K based on demographic and employment factors.
@@ -116,7 +113,7 @@ The model was trained on the Adult Census Income dataset with these features:
 ![App Screenshot](screenshot.png) *(optional)*
 
 ## 📜 License
+This project is **open-source** under the **MIT License**. 
 
-MIT © [LINGAL ANUSHA]
 ```
 
