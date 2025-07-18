@@ -118,5 +118,3 @@ The model was trained on the Adult Census Income dataset with these features:
 
 ## 📜 License
 This project is **open-source** under the **MIT License**. 
-
-```
