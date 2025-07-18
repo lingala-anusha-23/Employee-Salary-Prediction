@@ -112,7 +112,9 @@ The model was trained on the Adult Census Income dataset with these features:
 
 ![App Screenshot](https://github.com/user-attachments/assets/aa5ae6a0-0080-4e4b-b036-5029ded4d158)
 
-![App Live Demo](https://github.com/user-attachments/assets/65f0b450-f963-4cc5-a0a2-8a574a71b40f)
+
+## 🌐 Live Demo
+[![Live Demo Preview](https://raw.githubusercontent.com/lingalaanusha23/Employee-Salary-Prediction/main/assets/demo.gif)](https://github.com/user-attachments/assets/65f0b450-f963-4cc5-a0a2-8a574a71b40f)
 
 ## 📜 License
 This project is **open-source** under the **MIT License**. 
